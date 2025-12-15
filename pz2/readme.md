@@ -1,4 +1,4 @@
-#Сборка модуля
+# Сборка модуля
 Сборка при помощи команды make.
 
 ```
@@ -23,7 +23,7 @@ make[1]: Leaving directory '/usr/src/linux-headers-6.16.8+kali-amd64'
 └─$ sudo insmod simple.ko
 ```
 
-#Проверить модуль ядра
+# Проверить модуль ядра
 
 ```
 ┌──(kali㉿kali)-[~/develop/kernel/pz2]
@@ -46,7 +46,7 @@ simple                 12288  0
 ```
 
 
-#Удаление модуля
+# Удаление модуля
 
 ```                                                                                                                 
 ┌──(kali㉿kali)-[~/develop/kernel/pz2]
